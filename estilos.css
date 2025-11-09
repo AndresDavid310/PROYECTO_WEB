@@ -1,0 +1,6 @@
+.menu ol {
+    list-style-type: none;
+    display: flex;
+}
+
+.menu li {}
